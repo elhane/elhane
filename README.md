@@ -15,7 +15,7 @@
     <br/>
     <img src='img/icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
     <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Less.svg' title='Less' alt='Less' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Less.svg' title='Less' alt='Less' width='45'>&nbsp;&nbsp;
     <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
@@ -25,6 +25,8 @@
     <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Gulp.svg' title='Gulp' alt='Gulp' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/PUG.svg' title='PUG' alt='PUG' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/EJS.svg' title='EJS' alt='EJS' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
     <br/><br/>
     <img src='img/icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
@@ -55,7 +57,7 @@
 ### Контакты  💬
 <p>📞 <a href='tel:89227161602'>8-922-716-16-02</a> </p>
 <p>✉️ <a href='mailto:elena.gracheva.639@gmail.com'>elena.gracheva.639@gmail.com</a> </p>
-<p><img src='img/icons/Telegram.svg' title='Telegram' alt='Telegram' width='15'> <a href='t.me/elena_gracheva_639'>@elena_gracheva_639</a></p>
+<p><img src='img/icons/Telegram.svg' title='Telegram' alt='Telegram' width='15'><a href='https://t.me/elena_gracheva_639'>@elena_gracheva_639</a></p>
 <p><img src='img/icons/VK.svg' title='VK' alt='VK' width='15'> <a href='https://vk.me/elhane'>Вконтакте</a></p>
 <p><img src='img/icons/LinkedIn.svg' title='LinkedIn' alt='LinkedIn' width='15'> <a href='https://www.linkedin.com/in/elena-gracheva-b21917215'>LinkedIn</a></p>
 
