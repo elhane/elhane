@@ -41,25 +41,20 @@
 
 ### Проекты 📚
 
-| Название                                                                 | Год  | Тип | Описасние | Стек |
-|--------------------------------------------------------------------------|------|--------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
-| [6 cities](https://github.com/elhane/6-cities)                           | 2022 | <div align='center' title='Pet project'>🐈</div> | [Work In Propgress] Сервис для поиска жилья| React, React-Router, Redux Toolkit, Leaflet |
-| [What to Watch](https://github.com/elhane/what-to-watch)                 | 2022 | <div align='center' title='Учебный'>🎓</div>     | Приложение для просмотра фильмов        | React, React-Router, Redux Toolkit          |
-| [Kustodiev](https://github.com/elhane/kustodiev)                         | 2021 | <div align='center' title='Учебный'>🎓</div>     | Галерея картин Бориса Кустодиева                                            | Vue, SCSS, Nuxt                             |
-| [Israel](https://github.com/elhane/israel)                               | 2020 | <div align='center' title='Учебный'>🎓</div>     | Посадочная страница компании, которая возит студентов на стажировки в Израиль. | HTML, SCSS, JavaScript ES5, Gulp, БЭМ       |
-| [Cruises to Antarctica](https://github.com/elhane/cruises-to-antarctica) | 2020 | <div align='center' title='Учебный'>🎓</div>     | Лендинг компании, специализирующейся на морских круизах в Антарктику.       | HTML, SCSS, JavaScript ES5, Gulp, БЭМ       |
-| [Keksobooking](https://github.com/elhane/283879-keksobooking-20)         | 2020 | <div align='center' title='Учебный'>🎓</div>     | Сервис для размещения объявлений о сдаче недвижимости                       | HTML, CSS, JavaScript ES5                   |
-| [Mishka](https://github.com/elhane/mishka)                               | 2020 | <div align='center' title='Учебный'>🎓</div>     | Интернет-магазин игрушек ручной работы                                      | HTML, CSS, LESS, Gulp, БЭМ                  |
-| [Cat Energy](https://github.com/elhane/cat-energy)                       | 2020 | <div align='center' title='Учебный'>🎓</div>     | Интернет-магазин фитнес еды для котиков                                     | HTML, CSS, LESS, Gulp, БЭМ                  |
-| [Gllacy](elhane.github.io/gllacy)                                        | 2020 | <div align='center' title='Учебный'>🎓</div>     | Интернет-магазин мороженого                                                 | HTML, CSS                                   |
-| [Sedona](https://github.com/elhane/sedona)                               | 2020 | <div align='center' title='Учебный'>🎓</div>     | Сайт туристического городка в штате Аризона                                 | HTML, CSS                                   |
+| Название                                                                 | Год  | Тип                                                   | Описасние | Стек |
+|--------------------------------------------------------------------------|------|-------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
+| [6 cities](https://github.com/elhane/6-cities)                           | 2022 | <div align='center' title='Pet project'>🐈</div>      | [Work In Propgress] Сервис для поиска жилья| React, React-Router, Redux Toolkit, Leaflet |
+| [What to Watch](https://github.com/elhane/what-to-watch)                 | 2022 | <div align='center' title='Training project'>🎓</div> | Приложение для просмотра фильмов        | React, React-Router, Redux Toolkit          |
+| [Kustodiev](https://github.com/elhane/kustodiev)                         | 2021 | <div align='center' title='Training project'>🎓</div>          | Галерея картин Бориса Кустодиева                                            | Vue, SCSS, Nuxt                             |
+| [Israel](https://github.com/elhane/israel)                               | 2020 | <div align='center' title='Training project'>🎓</div>          | Посадочная страница компании, которая возит студентов на стажировки в Израиль. | HTML, SCSS, JavaScript ES5, Gulp, БЭМ       |
+| [Cruises to Antarctica](https://github.com/elhane/cruises-to-antarctica) | 2020 | <div align='center' title='Training project'>🎓</div>          | Лендинг компании, специализирующейся на морских круизах в Антарктику.       | HTML, SCSS, JavaScript ES5, Gulp, БЭМ       |
+| [Keksobooking](https://github.com/elhane/283879-keksobooking-20)         | 2020 | <div align='center' title='Training project'>🎓</div>          | Сервис для размещения объявлений о сдаче недвижимости                       | HTML, CSS, JavaScript ES5                   |
+| [Mishka](https://github.com/elhane/mishka)                               | 2020 | <div align='center' title='Training project'>🎓</div>          | Интернет-магазин игрушек ручной работы                                      | HTML, CSS, LESS, Gulp, БЭМ                  |
+| [Cat Energy](https://github.com/elhane/cat-energy)                       | 2020 | <div align='center' title='Training project'>🎓</div>          | Интернет-магазин фитнес еды для котиков                                     | HTML, CSS, LESS, Gulp, БЭМ                  |
+| [Gllacy](elhane.github.io/gllacy)                                        | 2020 | <div align='center' title='Training project'>🎓</div>          | Интернет-магазин мороженого                                                 | HTML, CSS                                   |
+| [Sedona](https://github.com/elhane/sedona)                               | 2020 | <div align='center' title='Training project'>🎓</div>          | Сайт туристического городка в штате Аризона                                 | HTML, CSS                                   |
 <br />
 <hr />
-
-
-<br />
-<hr />
-
 
 ### Контакты  💬
 <p>📞 <a href='tel:89227161602'>8-922-716-16-02</a> </p>
@@ -67,6 +62,3 @@
 <p><img src='img/icons/Telegram.svg' title='Telegram' alt='Telegram' width='15'><a href='https://t.me/elena_gracheva_639'>@elena_gracheva_639</a></p>
 <p><img src='img/icons/VK.svg' title='VK' alt='VK' width='15'> <a href='https://vk.me/elhane'>Вконтакте</a></p>
 <p><img src='img/icons/LinkedIn.svg' title='LinkedIn' alt='LinkedIn' width='15'> <a href='https://www.linkedin.com/in/elena-gracheva-b21917215'>LinkedIn</a></p>
-
-
-
