@@ -15,7 +15,7 @@
 ### Контакты  💬
 <p>📞 <a href='tel:89227161602'>8-922-716-16-02</a> </p>
 <p>✉️ <a href='mailto:elena.gracheva.639@gmail.com'>elena.gracheva.639@gmail.com</a> </p>
-<p><img src='img/icons/Telegram.svg' title='Telegram' alt='Telegram' width='15'><a href='https://t.me/elena_grach'>@elena_grach</a></p>
+<p><img src='img/icons/Telegram.svg' title='Telegram' alt='Telegram' width='15'> <a href='https://t.me/elena_grach'>@elena_grach</a></p>
 <p><img src='img/icons/VK.svg' title='VK' alt='VK' width='15'> <a href='https://vk.me/elhane'>Вконтакте</a></p>
 <p><img src='img/icons/LinkedIn.svg' title='LinkedIn' alt='LinkedIn' width='15'> <a href='https://www.linkedin.com/in/elena-gracheva-b21917215'>LinkedIn</a></p>
 
